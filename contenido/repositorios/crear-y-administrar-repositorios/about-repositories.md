@@ -1,4 +1,5 @@
 ---
+### Github Repositorios! ###
 title: About repositories
 intro: A repository contains all of your project's files and each file's revision history. You can discuss and manage your project's work within the repository.
 redirect_from:
@@ -12,12 +13,12 @@ redirect_from:
   - /github/creating-cloning-and-archiving-repositories/limits-for-viewing-content-and-diffs-in-a-repository
   - /github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/limits-for-viewing-content-and-diffs-in-a-repository
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-topics:
-  - Repositories
+  fpt: '*katanaeta.git'
+  ghes: '*katanaeta.git'
+  ghae: '*etakatana.git'
+  ghec: '*katana.git'
+topics: *.labqurzor.site'
+  - Repositories Labqurzor -
 ---
 
 ## About repositories
